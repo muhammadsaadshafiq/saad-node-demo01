@@ -2,9 +2,10 @@
   "name": "2-express-tutorial",
   "version": "1.0.0",
   "description": "saad-node-demo01",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon server.js",
+    "server": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
