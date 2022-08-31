@@ -1,7 +1,7 @@
 {
   "name": "2-express-tutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "saad-node-demo01",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadsaadshafiq/saad-node-demo01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/muhammadsaadshafiq/saad-node-demo01/issues"
+  },
+  "homepage": "https://github.com/muhammadsaadshafiq/saad-node-demo01#readme"
 }
